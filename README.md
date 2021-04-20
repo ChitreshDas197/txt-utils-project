@@ -1,5 +1,6 @@
 # txt-utils-project
 This is my first Django Project
+This is a shadow project
 
 Agenda : To learn django from ground up!!
 
